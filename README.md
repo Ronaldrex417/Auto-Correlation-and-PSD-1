@@ -73,7 +73,9 @@ plot(fw2);
 
 ### Output:
 
-<img width="1536" height="800" alt="image" src="https://github.com/user-attachments/assets/d3d3f17e-1b10-4cd3-987d-2cab5024814d" />
+![WhatsApp Image 2025-11-29 at 14 05 31_c98ffb85](https://github.com/user-attachments/assets/2475babe-ecd8-4fb2-82e8-35fa1bd269b0)
+
+![WhatsApp Image 2025-11-29 at 14 05 30_670e21a9](https://github.com/user-attachments/assets/42d6d1ea-6d7a-42f5-a164-4f3f39e685ea)
 
 
 ---
